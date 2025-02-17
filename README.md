@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-config-audit/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Расширение (модуль) панели управления "API Маршрутизация"
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-config-audit/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Расширение (модуль) панели управления "Настройка аудита"
 
 Конфигурация предназначена для настройки документирования операций (аудита) совершаемых пользователями.
 
