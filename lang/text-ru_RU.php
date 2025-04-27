@@ -34,5 +34,9 @@ return [
     'Save settings' => 'Сохранение настроек',
     'Reset settings' => 'Сброс настроек',
     'settings saved {0} successfully' => 'успешное сохранение настроек "<b>{0}</b>"',
-    'settings reseted {0} successfully' => 'успешный сброс настроек "<b>{0}</b>"'
+    'settings reseted {0} successfully' => 'успешный сброс настроек "<b>{0}</b>"',
+    // Form: сообщения / ошибки
+    'Cannot change settings (wrong tab id specified)' => 'Невозможно изменить настройки (указан неверный идентификатор вкладки).',
+    'No custom date format specified' => 'Не указан пользовательский формат даты',
+    'No custom time format specified' => 'Не указан пользовательский формат времени'
 ];
